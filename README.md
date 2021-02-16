@@ -1,5 +1,3 @@
-![Hey there, We are software developer, a maker and infosec enthusiast.](https://github.com/pinhanderler/Software-Development-Methodologies/blob/main/bio.gif.mp4)
-
 <!--
 Here are some ideas to get you started:
 
