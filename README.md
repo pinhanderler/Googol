@@ -1,8 +1,6 @@
-![Hey there, We are software developer, a maker and infosec enthusiast.](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+![Hey there, We are software developer, a maker and infosec enthusiast.](https://github.com/pinhanderler/Software-Development-Methodologies/blob/main/bio.gif.mp4)
 
 <!--
-**CyrisXD/CyrisXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
