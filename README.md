@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"> <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB"> <img src="https://img.shields.io/badge/-MongoDB-009933?style=for-the-badge&logo=mongodb&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-ffff00?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/-Bootstrap5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <br />
 
-💬 Ask we about **Our Project**
+-💬  Ask we about **Our Project**
  * [Узунлу Ґамзенур](https://github.com/pinhanderler)
  * [Ертугрул Сена](https://github.com/senaertugrul)
  * [Поста Хасан](https://github.com/hasanposta)
