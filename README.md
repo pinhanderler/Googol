@@ -11,7 +11,7 @@
 ![photo_2021-03-04_19-53-13](https://user-images.githubusercontent.com/57841309/110007383-4501b800-7d23-11eb-86b1-7923033ad946.jpg)
 
 ## App Icon
-Designed by [Gamzenur Uzunlu](pinahnderler@gmail.com)
+Designed by [Gamzenur Uzunlu](https://github.com/pinhanderler)
 
 ## **Authors**
 - 💬  Ask we about **Our Project**
