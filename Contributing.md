@@ -1,7 +1,7 @@
-[Gogool](https://github.com/pinhanderler/Gogool) - Material Gogool App 
+[Googol](https://github.com/pinhanderler/Googol) - Material Gogool App 
 ==================================================
 
-Welcome, so you are thinking about contributing to Gogool? Awesome, this is a great place to start.
+Welcome, so you are thinking about contributing to Googol? Awesome, this is a great place to start.
 
 Get in Touch
 ------------
@@ -16,7 +16,7 @@ Help Wanted
 #### If you have an error or support request
 
 - Read the error message and documentation.
-- Search [existing issues](https://github.com/pinhanderler/Gogool/issues), [closed issues](https://github.com/pinhanderler/Gogool/issues?page=1&state=closed), and [the internet](https://google.com) first.
+- Search [existing issues](https://github.com/pinhanderler/Googol/issues), [closed issues](https://github.com/pinhanderler/Googol/issues?page=1&state=closed), and [the internet](https://google.com) first.
 - If the issue is with a dependency of this project, post on the dependency's repo.
 - If you can fix the issue, submit a PR :+1: :dancer: :dancer: :rocket:.
 - If the issue persists, post on the issue tracker. Include any information that could help others reproduce and fix.
@@ -38,6 +38,6 @@ Git Essentials
 Workflows can vary, but here is a very simple workflow for contributing a bug fix:
 
     $ git clone git@github.com:myfork/Gogool.git
-    $ git remote add Gogool https://github.com/Gogool/Gogool.git
+    $ git remote add Googol https://github.com/Gogool/Googol.git
     $ git checkout -b 121-issue-keyword master
     $ git commit -m "(#121) - Description of what I had changed"
