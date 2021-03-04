@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 # Методології та технології розробки програмного забезпечення Курс Лабораторна робота
-
+![photo_2021-03-04_19-53-13](https://user-images.githubusercontent.com/57841309/110007383-4501b800-7d23-11eb-86b1-7923033ad946.jpg)
 ## **Authors**
 
  * [Узунлу Ґамзенур](https://github.com/pinhanderler)
