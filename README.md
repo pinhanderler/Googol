@@ -7,11 +7,8 @@
 <img src="https://img.shields.io/badge/-Java-0066ff?style=for-the-badge&logo=java&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-AndroidStudio-6600ff?style=for-the-badge&logo=AndroidStudio&logoColor=white"> <br />
 
-# Gogool ![photo_2021-03-04_19-53-13](https://user-images.githubusercontent.com/57841309/110007383-4501b800-7d23-11eb-86b1-7923033ad946.jpg)
-
-<img src="/screenshots/app_icon.png" height="200px"/> <br>
-A fully Material Gogool app with minimal features, just enough to be useful.
-
+# Gogool 
+![photo_2021-03-04_19-53-13](https://user-images.githubusercontent.com/57841309/110007383-4501b800-7d23-11eb-86b1-7923033ad946.jpg)
 
 ## App Icon
 Designed by [Gamzenur Uzunlu](pinahnderler@gmail.com)
